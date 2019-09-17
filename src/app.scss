@@ -1,0 +1,10 @@
+$background-color: rgb(242, 243, 237);
+$font-family: helvetica, sans-serif;
+$color: rgb(49, 45, 45);
+
+#root {
+  background-color: $background-color;
+  font-family: $font-family;
+  color: $color;
+  text-align: center;
+}

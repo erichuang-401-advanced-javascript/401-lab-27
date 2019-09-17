@@ -1,0 +1,44 @@
+#counterWrap {
+  margin: 0.5em 0;
+
+  div {
+    display: inline-block;
+    margin: 0 0.5em;
+  }
+
+}
+
+#buttonWrap > button {
+  margin: 0 0.25em;
+}
+
+#currentScore {
+  outline: none;
+  font-size: 1em;
+  width: 15%;
+  margin: 0.25em auto;
+  padding: 0.65em 1.5em;
+  border-radius: 5px;
+  //box-shadow: 1px 1px grey;
+}
+
+.black {
+  background-color: white;
+  color: black;
+  box-shadow: 1px 1px grey;
+  transition-duration: 0.2s;
+}
+
+.blue {
+  background-color: #76BBFF;
+  color: white;
+  box-shadow: 1px 1px grey;
+  transition-duration: 0.2s;
+}
+
+.red {
+  background-color: #F45336;
+  color: white;
+  box-shadow: 1px 1px grey;
+  transition-duration: 0.2s;
+}
