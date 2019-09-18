@@ -6,7 +6,8 @@
   "scripts": {
     "test": "react-scripts test --env=jsdom",
     "start": "react-scripts start",
-    "lint": "eslint src/**/*.js"
+    "lint": "eslint src/**/*.js",
+    "build": "react-scripts build"
   },
   "repository": {
     "type": "git",
