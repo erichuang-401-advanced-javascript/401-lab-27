@@ -9,16 +9,9 @@
     "lint": "eslint src/**/*.js",
     "build": "react-scripts build"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/erichuang-401-advanced-javascript/401-lab-27.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/erichuang-401-advanced-javascript/401-lab-27/issues"
-  },
   "browserslist": {
     "production": [
       ">0.2%",
@@ -31,7 +24,6 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://github.com/erichuang-401-advanced-javascript/401-lab-27#readme",
   "dependencies": {
     "eslint": "^6.4.0",
     "eslint-config-airbnb-base": "^14.0.0",
